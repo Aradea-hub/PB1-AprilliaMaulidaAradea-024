@@ -1,0 +1,45 @@
+1. Deskripsi Studi Kasus
+
+1.1 Gambaran Umum Studi Kasus
+
+Studi kasus ini membahas pengolahan data transaksi peminjaman buku pada Perpustakaan SMP Cendekia. Perpustakaan memiliki aktivitas pelayanan peminjaman dan pengembalian buku oleh siswa kelas 7, 8, dan 9.
+
+Setiap transaksi memuat informasi mengenai siswa, buku yang dipinjam, durasi peminjaman, keterlambatan pengembalian, serta denda yang dikenakan. Informasi tersebut dapat digunakan untuk mengevaluasi aktivitas peminjaman dan kedisiplinan pengembalian buku.
+
+Dataset yang digunakan merupakan data simulasi, bukan data transaksi asli dari suatu sekolah.
+
+1.2 Deskripsi Dataset
+Nama dataset : Dataset Peminjaman Buku Perpustakaan SMP Cendekia
+Jenis data : Data simulasi
+Jumlah data awal : 150 transaksi
+Jumlah variabel awal : 12 variabel
+Format dataset : CSV
+Objek pengamatan : Transaksi peminjaman buku
+Kegiatan utama : Peminjaman dan pengembalian buku
+
+1.3 Variabel Dataset
+
+Dataset terdiri dari 12 variabel sebagai berikut:
+1. ID_Peminjaman: pengenal unik transaksi (identitas, bukan besaran numerik).
+2. Kelas_Siswa: kelas siswa (kategori nominal: 7A s.d. 9B).
+3. Jenis_Kelamin: kategori Laki-laki atau Perempuan.
+4. Kategori_Buku: Buku Pelajaran, Novel, Komik, Ensiklopedia, Biografi, Cerita Anak.
+5. Jumlah_Buku: jumlah eksemplar yang dipinjam (numerik bilangan bulat; normal 1–4).
+6. Lama_Peminjaman_Hari: lama izin peminjaman dalam hari (numerik; normal 7, 10, atau 14 hari).
+7. Keterlambatan_Hari: jumlah hari terlambat dari batas pengembalian; 0 berarti tepat waktu (numerik).
+8. Denda_Rp: total denda keterlambatan dalam rupiah (numerik).
+9. Kondisi_Buku: Baik, Rusak Ringan, atau Rusak Berat (kategori ordinal).
+10. Status_Pengembalian: Tepat Waktu atau Terlambat (kategori).
+11. Tanggal_Pinjam: tanggal transaksi peminjaman (format standar YYYY-MM-DD).
+12. Tanggal_Kembali: tanggal pengembalian (format standar YYYY-MM-DD).
+
+1.4 Permasalahan Studi Kasus
+
+Dalam dataset ditemukan beberapa permasalahan kualitas data, antara lain:
+
+1. Mistake During Entry: Perbedaan penulisan kategori, seperti penggunaan huruf kapital dan spasi yang tidak konsisten.
+2. Impossible Value: Nilai jumlah buku yang tidak masuk akal, seperti angka negatif dan nol.
+3. Duplicate Data: Terdapat 5 baris data transaksi yang terduplikasi.
+4. Outlier: Ditemukan nilai ekstrem pada jumlah buku dan keterlambatan pengembalian.
+5. Missing Value: Beberapa variabel numerik dan kategorikal memiliki nilai kosong.
+6. Inkonsistensi Data: Ketidaksesuaian antara tanggal peminjaman, keterlambatan, nominal denda, dan status pengembalian.

@@ -1,0 +1,151 @@
+ID_Peminjaman,Kelas_Siswa,Jenis_Kelamin,Kategori_Buku,Jumlah_Buku,Lama_Peminjaman_Hari,Keterlambatan_Hari,Denda_Rp,Kondisi_Buku,Status_Pengembalian,Tanggal_Pinjam,Tanggal_Kembali
+PJM-0001,9B,Laki-laki,Komik,1,7,1,1000,Baik,Terlambat,2026-08-08,2026-08-16
+PJM-0002,9B,Laki-laki,Buku Pelajaran,1,14,0,0,Baik,Tepat Waktu,2026-08-27,2026-09-10
+PJM-0003,8B,Laki-laki,Biografi,3,7,1,1000,Baik,Terlambat,2026-07-20,2026-07-28
+PJM-0004,,Perempuan,Ensiklopedia,1,7,4,4000,Baik,Terlambat,2026-08-13,2026-08-24
+PJM-0005,7A,Perempuan,novel,1,7,2,2000,Baik,Terlambat,2026-09-08,2026-09-17
+PJM-0006,8A,Laki-laki,Cerita Anak,1,7,0,0,Baik,Tepat Waktu,2026-09-15,2026-09-22
+PJM-0007,8B,Perempuan,Komik,2,10,2,2000,Baik,Terlambat,2026-07-05,2026-07-17
+PJM-0008,9A,Perempuan,Biografi,,7,0,0,Baik,Tepat Waktu,2026-07-31,2026-08-07
+PJM-0009,7A,Perempuan,Cerita Anak,3,7,0,0,Baik,Tepat Waktu,2026-08-03,2026-08-10
+PJM-0010,9B,Laki-laki,Komik,1,7,0,0,Baik,Tepat Waktu,2026-09-27,2026-10-04
+PJM-0011,8A,Laki-laki,Cerita Anak,3,7,2,2000,Rusak Ringan,Terlambat,2026-08-28,2026-09-06
+PJM-0012,7A,Laki-laki,Ensiklopedia,1,10,0,0,Baik,Tepat Waktu,13/07/2026,2026-10-10
+PJM-0013,8A,Perempuan,Buku Pelajaran,4,10,4,4000,Rusak Ringan,Terlambat,2026-07-25,2026-08-08
+PJM-0014,7A,Laki-laki,,1,7,3,3000,Baik,Terlambat,2026-08-05,2026-08-15
+PJM-0015,8A,Laki-laki,Ensiklopedia,1,7,2,2000,Baik,Terlambat,2026-09-16,2026-09-25
+PJM-0016,9A,Perempuan,Buku Pelajaran,1,7,0,0,Baik,Tepat Waktu,2026-07-13,2026-07-20
+PJM-0017,8B,Perempuan,Cerita Anak,1,10,,10000,Baik,Terlambat,2026-07-04,2026-07-24
+PJM-0018,9B,Laki-laki,Ensiklopedia,1,14,1,1000,Baik,Terlambat,2026-08-14,2026-08-29
+PJM-0019,9B,Laki-laki,Buku Pelajaran,1,7,0,0,,Tepat Waktu,2026-08-12,2026-08-19
+PJM-0020,8A,Perempuan,Novel,3,7,0,0,Baik,Tepat Waktu,2026-09-25,2026-10-02
+PJM-0021,8B,Laki-laki,Ensiklopedia,2,,0,0,Baik,Tepat Waktu,2026-08-14,2026-08-21
+PJM-0022,9B,Laki-laki,Biografi,3,10,7,7000,Baik,Terlambat,2026-08-28,2026-09-14
+PJM-0023,7A,Laki-laki,Biografi,2,10,10,10000,Baik,Terlambat,2026-08-26,2026-09-15
+PJM-0024,8B,Perempuan,Komik,4,7,0,,Baik,Tepat Waktu,2026-07-29,2026-08-05
+PJM-0025,9B,Perempuan,Buku Pelajaran,1,10,3,3000,Baik,Terlambat,2026-09-07,2026-09-20
+PJM-0026,7B,Laki-laki,Buku Pelajaran,-2,14,1,1000,Baik,Terlambat,2026-10-09,2026-10-24
+PJM-0027,7A,laki laki,Novel,2,7,0,0,Baik,Tepat Waktu,2026-07-12,2026-07-19
+PJM-0028,7B,Laki-laki,Ensiklopedia,1,14,0,0,Baik,Tepat Waktu,2026-07-07,2026-07-21
+PJM-0029,7A,Perempuan,Ensiklopedia,1,7,0,0,Baik,terlambat,2026-09-18,2026-09-25
+PJM-0030,9B,Perempuan,Buku Pelajaran,1,10,0,0,Baik,Tepat Waktu,2026-08-15,2026-08-25
+PJM-0031,,Laki-laki,Biografi,1,10,7,7000,Baik,Terlambat,2026-08-23,2026-09-09
+PJM-0032,8B,Perempuan,Komik,1,2 minggu,0,0,Baik,Tepat Waktu,2026-07-12,2026-07-19
+PJM-0033,7A,Laki-laki,Ensiklopedia,2,14,0,0,Rusak Ringan,Tepat Waktu,2026-08-14,2026-08-28
+PJM-0034,8A,Laki-laki,Komik,1,10,5,5000,Baik,Terlambat,2026-07-07,2026-07-22
+PJM-0035,7A,Perempuan,NOVEL,2,7,10,10000,Baik,Terlambat,2026-07-19,2026-08-05
+PJM-0036,9B,Laki-laki,Biografi,3,14,,0,Baik,Tepat Waktu,2026-10-05,2026-10-19
+PJM-0037,7A,Laki-laki,Novel,1,10,3,3000,Baik,Terlambat,2026-07-12,2026-07-25
+PJM-0038,8B,Laki-laki,Buku Pelajaran,3,7,3,Rp 3.000,Baik,Terlambat,2026-07-18,2026-07-28
+PJM-0039,7B,Perempuan,Biografi,1,7,4,4000,Baik,Terlambat,2026-09-02,2026-09-13
+PJM-0040,8B,Perempuan,Novel,2,7,2,2000,Baik,Terlambat,2026-08-17,2026-08-26
+PJM-0041,8B,Perempuan,Ensiklopedia,1,7,2,2000,Baik,Terlambat,2026-07-03,2026-07-12
+PJM-0042,9B,Laki-laki,Novel,2,14,0,0,Rusak Ringan,Tepat Waktu,2026-08-21,2026-09-04
+PJM-0043,9B,Perempuan,,3,7,0,0,Rusak Ringan,Tepat Waktu,2026-08-26,2026-09-02
+PJM-0044,7B,Laki-laki,Biografi,1,-7,0,0,Baik,Tepat Waktu,2026-09-09,2026-09-16
+PJM-0045,9A,Perempuan,Komik,1,10,4,4000,Baik,Terlambat,2026-07-06,2026-07-20
+PJM-0046,8A,Perempuan,Novel,1,10,0,0,Baik,Tepat Waktu,2026-08-12,02/09/2026
+PJM-0047,9A,Perempuan,Buku Pelajaran,,14,2,2000,Rusak Ringan,Terlambat,2026-09-01,2026-09-17
+PJM-0048,7B,Perempuan,Buku Pelajaran,1,7,0,0,Baik,Tepat Waktu,2026-07-29,2026-08-05
+PJM-0049,7A,Perempuan,Komik,2,7,4,4000,Baik,Terlambat,2026-09-15,2026-09-26
+PJM-0050,9B,Perempuan,Biografi,3,7,1,1000,Baik,Terlambat,2026-08-18,2026-08-26
+PJM-0051,9B,Perempuan,Cerita Anak,1,7,0,0,Baik,,2026-07-07,2026-07-14
+PJM-0052,8B,Perempuan,Ensiklopedia,1,10,0,0,Baik,Tepat Waktu,2026-07-18,2026-07-28
+PJM-0053,7B,Perempuan,Novel,0,7,0,0,Rusak Ringan,Tepat Waktu,2026-09-01,2026-09-08
+PJM-0054,7B,Perempuan,Cerita Anak,1,7,1,1000,Rusak Ringan,Terlambat,2026-08-08,2026-08-16
+PJM-0055,9B,Laki-laki,Buku Pelajaran,3,7,0,0,Baik,Tepat Waktu,2026-09-22,2026-09-29
+PJM-0056,9B,Perempuan,Buku Pelajaran,2,14,-3,4000,Baik,Terlambat,2026-08-19,2026-09-06
+PJM-0057,7B,Laki-laki,Biografi,1,10,12,12000,rusak ringan,Terlambat,2026-08-17,2026-09-08
+PJM-0058,8B,Laki-laki,Biografi,1,,1,1000,Baik,Terlambat,2026-07-02,2026-07-10
+PJM-0059,9B,Laki-laki,Biografi,1,10,2,2000,Rusak Ringan,Terlambat,2026-07-23,2026-08-04
+PJM-0060,8B,Laki-laki,Biografi,2,7,1,1000,Baik,Tepat Waktu,2026-08-31,2026-09-08
+PJM-0061,7B,Laki-laki,Novel,1,10,2,2000,Baik,Terlambat,2026-08-12,2026-08-24
+PJM-0062,,Laki-laki,Novel,1,7,1,1000,Baik,Terlambat,2026-07-11,2026-07-19
+PJM-0063,8A,Laki-laki,Novel,1,7,1,1000,Baik,Terlambat,2026-07-15,2026-07-23
+PJM-0064,7B,Laki-laki,Cerita Anak,1,7,4,4000,Baik,Terlambat,2026-09-05,2026-09-16
+PJM-0065,7A,Laki-laki,Novel,1,10,0,0,Baik,Tepat Waktu,2026-09-20,2026-09-30
+PJM-0066,8B,Perempuan,Cerita Anak,3,10,0,-2000,Baik,Tepat Waktu,2026-08-01,2026-08-11
+PJM-0067,9A,Laki-laki,Buku Pelajaran,1,14,1,,Baik,Terlambat,2026-07-26,2026-08-10
+PJM-0068,8A,Perempuan,Komik,2,7,2,2000,Baik,Terlambat,2026-09-20,2026-09-29
+PJM-0069,7A,PEREMPUAN,Novel,1,10,0,0,Baik,Tepat Waktu,2026-09-30,2026-10-10
+PJM-0070,7B,Perempuan,Biografi,1,7,5,5000,Rusak Ringan,Terlambat,2026-09-16,2026-09-28
+PJM-0071,9A,Laki-laki,Buku Pelajaran,1,7,1,1000,Baik,Terlambat,2026-09-23,2026-10-01
+PJM-0072,7A,Perempuan,Novel,1,14 hari,0,0,Baik,Tepat Waktu,2026-07-05,2026-07-12
+PJM-0073,8A,Laki-laki,Cerita Anak,1,7,,0,Rusak Ringan,Tepat Waktu,2026-08-11,2026-08-18
+PJM-0074,9A,Laki-laki,,3,14,0,0,Baik,Tepat Waktu,2026-08-30,2026-09-13
+PJM-0075,9A,Laki-laki,Cerita Anak,2,7,0,0,Baik,Tepat Waktu,2026-08-01,2026-08-08
+PJM-0076,8A,Perempuan,Novel,2,7,0,2,Baik,Tepat Waktu,2026-10-01,2026-10-08
+PJM-0077,9B,Laki-laki,Novel,2,14,0,0,Baik,Tepat Waktu,2026-09-20,2026-10-04
+PJM-0078,8A,Laki-laki,Cerita Anak,1,10,3,3000,Baik,Terlambat,2026-09-21,2026-10-04
+PJM-0079,7B,Perempuan,Buku Pelajaran,2,14,0,0,Baik,Tepat Waktu,2026/08/25,2026-10-23
+PJM-0080,7B,Perempuan,Cerita Anak,4,14,0,0,Baik,Tepat Waktu,2026-08-13,2026-08-27
+PJM-0081,8A,Perempuan,Buku Pelajaran,2,7,1,1000,Baik,Terlambat,2026-09-23,2026-10-01
+PJM-0082,8A,Laki-laki,Novel,1,7,0,0,Baik,Tepat Waktu,2026-07-15,2026-07-22
+PJM-0083,9A,Perempuan,Novel,1,7,7,7000,Baik,Terlambat,2026-07-24,2026-08-07
+PJM-0084,9A,Laki-laki,Cerita Anak,1,0,1,1000,Rusak Ringan,Terlambat,2026-07-07,2026-07-22
+PJM-0085,8A,Perempuan,buku pelajaran,1,7,5,5000,Baik,Terlambat,2026-07-12,2026-07-24
+PJM-0086,8B,Laki-laki,Biografi,1,14,1,1000,Baik,Terlambat,2026-07-10,2026-07-25
+PJM-0087,8B,Laki-laki,Cerita Anak,3,7,0,0,Baik,Tepat Waktu,2026-08-04,2026-08-11
+PJM-0088,8B,Perempuan,Novel,2,7,7,7000,,Terlambat,2026-10-03,2026-10-17
+PJM-0089,9B,Laki-laki,Ensiklopedia,1,14,0,0,Baik,Tepat Waktu,2026-07-19,2026-08-02
+PJM-0090,8A,Perempuan,Ensiklopedia,1,7,0,4500,Baik,Tepat Waktu,2026-08-13,2026-08-20
+PJM-0091,7B,Laki-laki,Biografi,2,,0,0,Baik,Tepat Waktu,2026-09-08,2026-09-15
+PJM-0092,8B,Perempuan,Komik,1,10,12,12000,Baik,Terlambat,2026-08-26,2026-09-17
+PJM-0093,9B,Perempuan,Ensiklopedia,1,14,0,0,Baik,Tepat Waktu,2026-08-29,2026-09-12
+PJM-0094,8B,Laki-laki,Komik,1,7,4,4000,Baik,Terlambat,2026-08-16,2026-08-27
+PJM-0095,,Perempuan,Cerita Anak,1,10,0,0,Rusak Ringan,Tepat Waktu,2026-08-13,2026-08-23
+PJM-0096,8A,Laki-laki,Buku Pelajaran,1,7,0,0,Baik,Tepat Waktu,2026-09-21,2026-09-28
+PJM-0097,9A,Laki-laki,Buku Pelajaran,1,7,0,0,Baik,Tepat Waktu,2026-08-28,2026-09-04
+PJM-0098,9B,Laki-laki,Ensiklopedia,2,7,0,0,Baik,Tepat waktu,2026-08-20,2026-08-27
+PJM-0099,9B,Perempuan,Buku Pelajaran,1,7,2,2000,Baik,Terlambat,2026-09-18,2026-09-27
+PJM-0100,8A,Perempuan,Cerita Anak,3,7,5,5000,Rusak Ringan,Terlambat,2026-08-24,2026-09-05
+PJM-0101,8A,Laki-laki,Biografi,1,14,3,3000,BAIK,Terlambat,2026-07-27,2026-08-13
+PJM-0102,8B,Laki-laki,Komik,2,7,0,,Rusak Ringan,Tepat Waktu,2026-07-27,2026-08-03
+PJM-0103,9B,Laki-laki,Komik,2,7,0,0,Baik,Tepat Waktu,2026-09-03,22-10-2026
+PJM-0104,9B,Laki-laki,Cerita Anak,1,10,1,1000,Baik,Terlambat,2026-07-06,2026-07-17
+PJM-0105,7B,Laki-laki,Novel,,7,0,0,Baik,Tepat Waktu,2026-08-05,2026-08-12
+PJM-0106,7B,Laki-laki,Ensiklopedia,3,7,0,0,Baik,Tepat Waktu,2026-07-22,2026-07-29
+PJM-0107,8A,Perempuan,Komik,2,10,,1000,Baik,Terlambat,2026-09-19,2026-09-30
+PJM-0108,8B,Laki-laki,Buku Pelajaran,2,10,10,10000,Baik,Terlambat,2026-07-01,2026-07-21
+PJM-0109,8A,Perempuan,,1,7,0,0,Baik,Tepat Waktu,2026-09-04,2026-09-11
+PJM-0110,7B,Laki-laki,Buku Pelajaran,3,7,0,0,Baik,Tepat Waktu,2026-09-09,2026-09-16
+PJM-0111,7B,Laki-laki,Biografi,2,10,2,2000,Baik,Terlambat,2026-07-10,2026-07-22
+PJM-0112,7B,Laki-laki,KOMIK,1,14,2,2000,Baik,Terlambat,2026-09-20,2026-10-06
+PJM-0113,8B,Laki-laki,Ensiklopedia,35,10,0,0,Baik,Tepat Waktu,2026-09-01,2026-09-11
+PJM-0114,8B,Laki-laki,Ensiklopedia,2,14,0,0,Baik,Tepat Waktu,2026-08-17,2026-08-31
+PJM-0115,9B,Laki-laki,Komik,1,7,5,5000,Baik,Terlambat,2026-08-28,2026-09-09
+PJM-0116,9B,Perempuan,Biografi,1,7,0,0,Baik,,2026-08-03,2026-08-10
+PJM-0117,7A,Laki-laki,Biografi,2,7,0,0,Baik,Tepat Waktu,2026-09-18,2026-09-25
+PJM-0118,8B,Perempuan,Cerita Anak,3,14,0,0,Baik,Tepat Waktu,2026-08-12,2026-08-26
+PJM-0119,7b,Laki-laki,Biografi,4,14,1,1000,Baik,Terlambat,2026-08-24,2026-09-08
+PJM-0120,8B,Laki-laki,Cerita Anak,1,7,0,0,Baik,Tepat Waktu,2026-07-25,2026-08-01
+PJM-0121,9B,Perempuan,Komik,1,7,79,0,Baik,Tepat Waktu,2026-09-30,2026-10-07
+PJM-0122,7B,Perempuan,Ensiklopedia,1,7,0,0,,Tepat Waktu,2026-08-05,2026-08-12
+PJM-0123,7B,Perempuan,Biografi,1,7,2,2000,Baik,Terlambat,2026-08-10,2026-08-19
+PJM-0124,8B,Laki-laki,Novel,2,10,2,,Baik,Terlambat,2026-08-09,2026-08-21
+PJM-0125,9B,Laki-laki,Novel,2,7,7,7000,Baik,Terlambat,2026-08-30,2026-09-13
+PJM-0126,7B,Perempuan,Buku Pelajaran,4,10,1,1000,Baik,Terlambat,2026-07-25,2026-08-05
+PJM-0127,8A,Perempuan,Buku Pelajaran,2,7,0,0,Baik,Tepat Waktu,2026-07-18,2026-07-25
+PJM-0128,7A,Laki-laki,Cerita Anak,1,7,2,2000,Baik,Terlambat,2026-08-20,2026-08-29
+PJM-0129,9B,Perempuan,Ensiklopedia,1,10,0,0,Baik,Tepat Waktu,2026-07-15,2026-07-25
+PJM-0130,9B,Perempuan,Ensiklopedia,1,10,3,3000,Baik,Terlambat,2026-09-22,2026-10-05
+PJM-0131,9A,Perempuan,Cerita Anak,,7,10,10000,Baik,Terlambat,2026-09-02,2026-09-19
+PJM-0132,7B,Perempuan,Cerita Anak,2,7,12,12000,Rusak Berat,Terlambat,2026-08-16,2026-09-04
+PJM-0133,8B,Laki-laki,Novel,1,7,4,4000,Baik,Terlambat,2026-10-02,2026-10-13
+PJM-0134,9B,Laki-laki,Cerita Anak,1,10,0,0,Baik,Tepat Waktu,2026-07-24,2026-08-03
+PJM-0135,7A,Perempuan,,2,7,0,0,Rusak Ringan,Tepat Waktu,2026-07-21,2026-07-28
+PJM-0136,9A,Perempuan,Biografi,1,7,0,0,Baik,Tepat Waktu,2026-08-08,2026-08-15
+PJM-0137,8B,Laki-laki,Biografi,1,10,0,0,Baik,Tepat Waktu,2026-10-06,2026-10-16
+PJM-0138,8A,Laki-laki,Buku Pelajaran,1,10,3,3000,Baik,Terlambat,2026-08-22,2026-09-04
+PJM-0139,8B,Laki-laki,Komik,1,14,0,0,Baik,Tepat Waktu,2026-09-20,2026-10-04
+PJM-0140,,Laki-laki,Komik,2,7,0,0,Baik,Tepat Waktu,2026-07-25,2026-08-01
+PJM-0141,7B,Perempuan,Biografi,4,10,3,350000,Baik,Terlambat,2026-08-21,2026-09-03
+PJM-0142,9A,Perempuan,Komik,2,7,3,3000,Rusak Ringan,Terlambat,2026-08-11,2026-08-21
+PJM-0143,9B,Laki-laki,Novel,2,10,,1000,Rusak Ringan,Terlambat,2026-07-04,2026-07-15
+PJM-0144,8B,Perempuan,Biografi,1,7,0,0,Baik,Tepat Waktu,2026-07-23,2026-13-40
+PJM-0145,8B,Laki-laki,Biografi,1,10,2,2000,Baik,Terlambat,2026-09-03,2026-09-15
+PJM-0011,8A,Laki-laki,Cerita Anak,3,7,2,2000,Rusak Ringan,Terlambat,2026-08-28,2026-09-06
+PJM-0042,9B,Laki-laki,Novel,2,14,0,0,Rusak Ringan,Tepat Waktu,2026-08-21,2026-09-04
+PJM-0077,9B,Laki-laki,Novel,2,14,0,0,Baik,Tepat Waktu,2026-09-20,2026-10-04
+PJM-0111,7B,Laki-laki,Biografi,2,10,2,2000,Baik,Terlambat,2026-07-10,2026-07-22
+PJM-0139,8B,Laki-laki,Komik,1,14,0,0,Baik,Tepat Waktu,2026-09-20,2026-10-04
